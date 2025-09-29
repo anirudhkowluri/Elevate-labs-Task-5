@@ -1,4 +1,4 @@
-Here’s a clear summary of what the task 5 jupiter notebook:
+Here’s a clear summary of  task 5 jupiter notebook code:
 1. **Imports**
 
    * Loads the libraries used in the script:
